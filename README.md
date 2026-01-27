@@ -1,12 +1,12 @@
 # Vero Dall'Aglio
 
-**Senior System Architect** | Full Stack Engineer | 25+ years building systems
+**Principal AI Systems Architect** | Agentic AI, Voice AI & Intelligence Platforms | 25+ years shipping production systems
 
-Rome, Italy • [LinkedIn](https://www.linkedin.com/in/verodallaglio/)
+Rome, Italy • [LinkedIn](https://www.linkedin.com/in/verodallaglio/) • [X](https://x.com/verodallaglio)
 
 ---
 
-## Currently Building
+## Maintainer of IntellyWeave
 
 ### [IntellyWeave](https://github.com/vericle/intellyweave)
 
@@ -14,7 +14,7 @@ AI-powered OSINT platform for intelligence analysts, historical researchers, and
 
 Built on [Weaviate's Elysia framework](https://github.com/weaviate/elysia) • GLiNER entity extraction • Mapbox 3D geospatial visualization
 
-**Origin**: Created to investigate the Cold War fate of my aunt Ingeborg Loucek, a U.S. Army Counter Intelligence Corps agent who disappeared in Vienna, 1950.
+**Origin**: Built to investigate the Cold War fate of my aunt Ingeborg Loucek, a U.S. Army Counter Intelligence Corps agent who disappeared in Vienna, 1950.
 
 | Repository | Description |
 |------------|-------------|
@@ -26,10 +26,11 @@ Built on [Weaviate's Elysia framework](https://github.com/weaviate/elysia) • G
 
 ## Technical Focus
 
-- **AI/ML**: LLM orchestration, DSPy, GLiNER, vector databases (Weaviate, Pinecone)
-- **GIS/Geospatial**: 20+ years with ArcGIS, QGIS, Mapbox GL, Leaflet
-- **Computational Linguistics**: NER, entity extraction, multilingual document processing
-- **Full Stack**: Python/FastAPI, Next.js/React, TypeScript
+- **Agentic AI**: Multi-agent architectures, RAG systems, semantic retrieval pipelines, LLM orchestration
+- **Voice AI**: WebRTC, telephony integration, real-time conversational systems, speech recognition
+- **Vector Databases**: Weaviate, Pinecone, vector-first data models, hybrid search
+- **GIS/Geospatial**: 20+ years with ArcGIS, QGIS, Mapbox GL, geospatial intelligence
+- **Full Stack**: Python/FastAPI, Next.js/React, TypeScript, Node.js
 
 ---
 
@@ -37,11 +38,12 @@ Built on [Weaviate's Elysia framework](https://github.com/weaviate/elysia) • G
 
 | Period | Role | Organization |
 |--------|------|--------------|
+| 2022–Present | Principal AI Systems Architect | Independent Consulting |
 | 2018–2022 | Senior System Architect | DXC Technology |
-| 2012–2022 | R&D Team Lead | DYMATRIX Germany |
+| 2012–2018 | R&D Team Lead | DYMATRIX Germany |
 | 2010–2012 | Senior Developer | Hewlett-Packard |
 | 2005–2009 | Team Leader | Poste Italiane |
 
 ---
 
-*Building tools for those who connect the dots.*
+*Building AI as infrastructure, not experiments.*
