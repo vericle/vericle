@@ -6,7 +6,7 @@ Rome, Italy • [LinkedIn](https://www.linkedin.com/in/verodallaglio/) • [X](h
 
 ---
 
-## Maintainer of IntellyWeave
+## Maintainer of IntellyWeave and other cool stuff
 
 ### [IntellyWeave](https://github.com/vericle/intellyweave)
 
