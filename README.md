@@ -34,12 +34,22 @@ Built with FastAPI, Next.js, Weaviate, DSPy, GLiNER entity extraction, and Mapbo
 | [intellyweave-cli](https://github.com/vericle/intellyweave-cli) | Operations CLI and AI shell |
 | [mcp-weaviate](https://github.com/vericle/mcp-weaviate) | MCP server for Weaviate integration |
 
-### [GraphForge](https://github.com/vericle/graphforge)
+### [🤖 GraphForge](https://github.com/vericle/graphforge)
 
-Visual voice-agent builder for designing, generating, and running conversational AI workflows with drag-and-drop orchestration.
+**Design voice agents visually. Generate production-ready code automatically.**
 
-`TypeScript` • `Next.js` • `LangGraph` • `LiveKit` • `ElevenLabs` • `Deepgram`
+GraphForge is a self-hosted, design-first development platform for building voice-enabled AI agents. Teams can draw conversation flows, configure providers visually, export portable workflow specifications, and generate LangGraph-based Python or TypeScript without rewriting infrastructure.
 
+- Drag-and-drop editor with 12 node types for triggers, processing, responses, and control flow
+- Visual configuration for OpenAI, Deepgram, ElevenLabs, and Silero
+- Production-oriented code generation with customizable Jinja2 templates
+- YAML import/export for version control and team collaboration
+- Dagre and ELK auto-layout for complex conversation graphs
+- Pre-built workflow templates and a LiveKit voice runtime with human-in-the-loop interrupts
+
+`Next.js` • `React` • `TypeScript` • `Python` • `LangGraph` • `LiveKit` • `Deepgram` • `ElevenLabs`
+
+[Repository](https://github.com/vericle/graphforge) • [Documentation](https://github.com/vericle/graphforge#documentation) • [Roadmap](https://github.com/vericle/graphforge/blob/main/docs/ROADMAP.md)
 ---
 
 ## Technical Focus
